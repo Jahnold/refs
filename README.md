@@ -1,5 +1,14 @@
 # refs
-Creates variables for your Android views.  Needs Node & xmldoc.
+Creates variables for your Android views.  
+
+# Requirements
+
+Node.js
+
+xmldoc:
+```
+npm install xmldoc
+```
 
 # Usage
 
