@@ -81,7 +81,7 @@ If you had the following xml layout file called example.xml:
 You would use the command:
 
 ```
-./refs.js v fragment_book_list.xml
+./refs.js v example.xml
 ```
 
 And would get the following result:
